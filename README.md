@@ -1,2 +1,2 @@
-# BleTrailTestStraat
+# BlueTrailTestStraat
 Teststraat voor BlueTrail
