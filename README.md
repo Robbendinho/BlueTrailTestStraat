@@ -1,2 +1,2 @@
 # BlueTrailTestStraat
-Teststraat voor BlueTrail
+Teststraat voor BlueTrail voor test doeleinden
