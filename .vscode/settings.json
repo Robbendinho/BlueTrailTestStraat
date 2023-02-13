@@ -1,4 +1,8 @@
 {
     "java.configuration.updateBuildConfiguration": "interactive",
-    "karateRunner.karateRunner.default": "TestRunner"
+    "karateRunner.karateRunner.default": "TestRunner",
+    "[powershell]": {
+        "files.encoding": "utf8bom",
+        "files.autoGuessEncoding": true
+    }
 }
